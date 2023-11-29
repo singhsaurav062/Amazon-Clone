@@ -6,4 +6,4 @@ It is responsive for Mobile Phones.
 <br>
 Used Coding Language: HTML and CSS.
 
-**Preview**
+**Preview**: https://singhsaurav062.github.io/Amazon-Clone/
